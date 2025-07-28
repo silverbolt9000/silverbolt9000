@@ -1,5 +1,5 @@
 <h1 align="center">Heya! 👋 I'm Radamés Terhorst</h1>
-<h3 align="center">🚀 Mobile & Backend Developer | 🌎 Brazil</h3>
+<h3 align="center">🚀 Mobile & Frontend Developer | 🌎 Brazil</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=silverbolt9000&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
